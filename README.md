@@ -1,1 +1,3 @@
-# codility
+# Codility
+
+BinaryGap - JavaScript - 86%
